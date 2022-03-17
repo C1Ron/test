@@ -55,4 +55,5 @@ dkms.conf
 .vs
 testProject/testProject/Debug*
 testProject/testProject/testProject.vcxproj*
+!testProject/testProject/testProject.vcxproj
 
